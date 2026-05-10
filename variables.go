@@ -14,6 +14,8 @@ func main() {
 
 	f := "fox"
 	fmt.Println(f)
-
+	
+	e := 14
+	fmt.Println(e)
 
 }
